@@ -1,0 +1,11 @@
+.contact{
+    margin-top: 6px;
+    border-radius: 7px;
+    border: 1px solid darkgray;
+    width: 297px;
+    height: 40px;
+}
+.contact-div{
+    border-radius: 8px;
+    border: 18px solid lightgrey;
+}
